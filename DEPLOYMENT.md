@@ -10,9 +10,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo DAY12-...) |
+| Họ và tên | Đỗ Thanh Tùng |
+| Mã học viên | 2A202601205 |
+| Repo | https://github.com/thanhtungdo2003/DAY12-2A202601205-DoThanhTung |
 
 ## Service
 
