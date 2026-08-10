@@ -46,4 +46,4 @@ jobs:
       - name: Smoke test
         run: |
           sleep 45
-          curl -fsS "${{ vars.PUBLIC_URL }}/health"
+          curl -fsS "https://day12-2a202601205-dothanhtung.onrender.com/health"
