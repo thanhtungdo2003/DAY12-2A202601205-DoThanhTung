@@ -14,7 +14,7 @@
 |-----|----------|
 | Public URL | https://day12-2a202601205-dothanhtung.onrender.com |
 | Platform | Render |
-| Ngày deploy | 10/08/2026 |
+| Ngày deploy | 10/08/2026  |
 
 ## Biến Môi Trường Đã Set Trên Cloud
 
